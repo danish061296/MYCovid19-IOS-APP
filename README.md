@@ -10,7 +10,7 @@
 
 # Run Instructions:
 - Clone project to your computer
-- Doubke click on MyPersonals.xcworkspace
+- Double click on MyPersonals.xcworkspace
 
 # Features:
 - Used tab bar view and navigation controller to swipe between the screens.
